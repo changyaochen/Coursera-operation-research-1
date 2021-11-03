@@ -1,5 +1,5 @@
 # Coursera-operation-research-1
-Materials for the Coursera course: Operations Research (1): Models and Applications
+Materials for the Coursera course: Operations Research (1): Models and Applications ([link](https://www.coursera.org/learn/operations-research-modeling/home/welcome).)
 
 Here we use `Python` libraries to solve the problem sets in the course. The `Python` environment is configured via `pipenv` (see the instruction for installation [here](https://pipenv-fork.readthedocs.io/en/latest/install.html)). We also follow the notes [here](https://realpython.com/linear-programming-python/) to set up the solvers.
 
